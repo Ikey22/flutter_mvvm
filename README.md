@@ -1,10 +1,8 @@
 # mvvm_tutorial
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project shows the application of the MVVM Repository pattern in Flutter using GetX.
 
 A few resources to get you started if this is your first Flutter project:
 
